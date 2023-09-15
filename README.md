@@ -3,8 +3,8 @@
 <p align="left">
 Repository created by Alexander Etkin for the implementation of home tasks and special tasks of the OTUS ML training course
 </p>
-<p align="center">
-    <img src="asset/logo.svg" height="150">
+<p align="left">
+    <img src="src/img.png" height="150">
 </p>
 
 <h3 align="left">Github Activity Graph</h3>
