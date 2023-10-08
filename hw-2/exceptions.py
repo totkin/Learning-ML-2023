@@ -6,13 +6,17 @@
 """
 
 
-class LowFuelError(Exception):
+class MLBasicHW2(Exception):
     pass
 
 
-class NotEnoughFuel(Exception):
+class LowFuelError(MLBasicHW2):
     pass
 
 
-class CargoOverload(Exception):
+class NotEnoughFuel(MLBasicHW2):
+    pass
+
+
+class CargoOverload(MLBasicHW2):
     pass
