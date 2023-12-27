@@ -5,3 +5,4 @@
     np.linalg.solve(W, v)
     ```
 - [Как писать формулы в jupiter](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html)
+- [Написать математические формулы с Jupyter](https://russianblogs.com/article/5264435364/)
