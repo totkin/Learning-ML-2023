@@ -1,0 +1,2 @@
+- [2019 Airbnb NYC Availability Prediction](https://leo-you.github.io/Airbnb-Availability-Prediction/)
+- [github variant](https://github.com/chemarev/otus-ml-basic)
