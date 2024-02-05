@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f668815-f618-4de5-89b0-4958c881b205" name="Changes" comment="Homework-05 init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-5/archive.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="0f668815-f618-4de5-89b0-4958c881b205" name="Changes" comment="Homework-06 feaches analysis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework-05",
+    "git-widget-placeholder": "homework-06",
     "last_opened_file_path": "C:/Users/etkin_a/PycharmProjects/Learning-ML-2023/hw-6"
   }
 }]]></component>
@@ -84,7 +81,95 @@
       <option name="project" value="LOCAL" />
       <updated>1706368263798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework-06 init">
+      <option name="closed" value="true" />
+      <created>1706983423331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706983423331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework-06 init">
+      <option name="closed" value="true" />
+      <created>1706983483528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706983483528</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework-06 init">
+      <option name="closed" value="true" />
+      <created>1706983685279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706983685279</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework-06 init">
+      <option name="closed" value="true" />
+      <created>1706984369075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706984369075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework-06 init">
+      <option name="closed" value="true" />
+      <created>1706984577603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706984577603</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework-06 first steps">
+      <option name="closed" value="true" />
+      <created>1706991294628</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706991294628</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Homework-06 EDA part">
+      <option name="closed" value="true" />
+      <created>1707054393961</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707054393961</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Homework-06 EDA part">
+      <option name="closed" value="true" />
+      <created>1707054504575</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707054504575</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Homework-06 feaches analysis">
+      <option name="closed" value="true" />
+      <created>1707079603479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707079603479</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Homework-06 feaches analysis">
+      <option name="closed" value="true" />
+      <created>1707080567393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707080567393</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Homework-06 feaches analysis">
+      <option name="closed" value="true" />
+      <created>1707137230532</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707137230532</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +183,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="homework-05" />
+                        <option value="homework-06" />
                       </list>
                     </value>
                   </entry>
@@ -112,6 +197,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework-05 init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework-05 init" />
+    <MESSAGE value="Homework-06 init" />
+    <MESSAGE value="Homework-06 first steps" />
+    <MESSAGE value="Homework-06 EDA part" />
+    <MESSAGE value="Homework-06 feaches analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework-06 feaches analysis" />
   </component>
 </project>
